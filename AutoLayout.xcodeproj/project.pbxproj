@@ -12,6 +12,12 @@
 		2EB130921F28E93800A7D8AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EB130901F28E93800A7D8AD /* Main.storyboard */; };
 		2EB130941F28E93800A7D8AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EB130931F28E93800A7D8AD /* Assets.xcassets */; };
 		2EB130971F28E93800A7D8AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EB130951F28E93800A7D8AD /* LaunchScreen.storyboard */; };
+		2EB1309F1F28F05000A7D8AD /* SafetyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EB1309E1F28F05000A7D8AD /* SafetyViewController.swift */; };
+		2EB130A11F28F48B00A7D8AD /* 11883875415_63006d9076_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2EB130A01F28F48B00A7D8AD /* 11883875415_63006d9076_o.jpg */; };
+		2EB130A31F28F57E00A7D8AD /* 37e38dcd6062dd631bada93466e5dc24_w325_h576_sc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2EB130A21F28F57E00A7D8AD /* 37e38dcd6062dd631bada93466e5dc24_w325_h576_sc.jpg */; };
+		2EB130A51F29179600A7D8AD /* 21948987424_8ca93b8923_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2EB130A41F29179600A7D8AD /* 21948987424_8ca93b8923_o.jpg */; };
+		2EB130A71F2919E800A7D8AD /* 7198630706_c9c0ab7d13_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2EB130A61F2919E800A7D8AD /* 7198630706_c9c0ab7d13_o.jpg */; };
+		2EB130A91F291EF700A7D8AD /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EB130A81F291EF700A7D8AD /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		2EB130931F28E93800A7D8AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EB130961F28E93800A7D8AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2EB130981F28E93800A7D8AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EB1309E1F28F05000A7D8AD /* SafetyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SafetyViewController.swift; sourceTree = "<group>"; };
+		2EB130A01F28F48B00A7D8AD /* 11883875415_63006d9076_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 11883875415_63006d9076_o.jpg; sourceTree = "<group>"; };
+		2EB130A21F28F57E00A7D8AD /* 37e38dcd6062dd631bada93466e5dc24_w325_h576_sc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 37e38dcd6062dd631bada93466e5dc24_w325_h576_sc.jpg; sourceTree = "<group>"; };
+		2EB130A41F29179600A7D8AD /* 21948987424_8ca93b8923_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 21948987424_8ca93b8923_o.jpg; sourceTree = "<group>"; };
+		2EB130A61F2919E800A7D8AD /* 7198630706_c9c0ab7d13_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7198630706_c9c0ab7d13_o.jpg; sourceTree = "<group>"; };
+		2EB130A81F291EF700A7D8AD /* MapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +52,10 @@
 			children = (
 				2EB1308B1F28E93800A7D8AD /* AutoLayout */,
 				2EB1308A1F28E93800A7D8AD /* Products */,
+				2EB130A01F28F48B00A7D8AD /* 11883875415_63006d9076_o.jpg */,
+				2EB130A21F28F57E00A7D8AD /* 37e38dcd6062dd631bada93466e5dc24_w325_h576_sc.jpg */,
+				2EB130A41F29179600A7D8AD /* 21948987424_8ca93b8923_o.jpg */,
+				2EB130A61F2919E800A7D8AD /* 7198630706_c9c0ab7d13_o.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,6 +73,8 @@
 				2EB1308C1F28E93800A7D8AD /* AppDelegate.swift */,
 				2EB1308E1F28E93800A7D8AD /* ViewController.swift */,
 				2EB130901F28E93800A7D8AD /* Main.storyboard */,
+				2EB130A81F291EF700A7D8AD /* MapViewController.swift */,
+				2EB1309E1F28F05000A7D8AD /* SafetyViewController.swift */,
 				2EB130931F28E93800A7D8AD /* Assets.xcassets */,
 				2EB130951F28E93800A7D8AD /* LaunchScreen.storyboard */,
 				2EB130981F28E93800A7D8AD /* Info.plist */,
@@ -96,6 +114,7 @@
 				TargetAttributes = {
 					2EB130881F28E93800A7D8AD = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = GK9239JMDJ;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,6 +142,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EB130A51F29179600A7D8AD /* 21948987424_8ca93b8923_o.jpg in Resources */,
+				2EB130A31F28F57E00A7D8AD /* 37e38dcd6062dd631bada93466e5dc24_w325_h576_sc.jpg in Resources */,
+				2EB130A71F2919E800A7D8AD /* 7198630706_c9c0ab7d13_o.jpg in Resources */,
+				2EB130A11F28F48B00A7D8AD /* 11883875415_63006d9076_o.jpg in Resources */,
 				2EB130971F28E93800A7D8AD /* LaunchScreen.storyboard in Resources */,
 				2EB130941F28E93800A7D8AD /* Assets.xcassets in Resources */,
 				2EB130921F28E93800A7D8AD /* Main.storyboard in Resources */,
@@ -136,8 +159,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EB1309F1F28F05000A7D8AD /* SafetyViewController.swift in Sources */,
 				2EB1308F1F28E93800A7D8AD /* ViewController.swift in Sources */,
 				2EB1308D1F28E93800A7D8AD /* AppDelegate.swift in Sources */,
+				2EB130A91F291EF700A7D8AD /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +285,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GK9239JMDJ;
 				INFOPLIST_FILE = AutoLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mhonore.AutoLayout;
@@ -272,6 +298,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = GK9239JMDJ;
 				INFOPLIST_FILE = AutoLayout/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.mhonore.AutoLayout;
